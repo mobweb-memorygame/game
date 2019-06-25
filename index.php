@@ -1,3 +1,3 @@
 <?php
-    Header("location: Proyek/index.html");
+    header("Location: Proyek/index.html");
 ?>
